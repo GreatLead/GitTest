@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             var a = 11;
             Console.Write(a);
+            var b = 22;
+            Console.Write(a + b);
 
         }
     }
